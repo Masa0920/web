@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    height: 600em;
+}
+.item1{
+    background: red;
+    height: 600px;
+    flex: 1;
+}
+.item2{
+    background: pink;
+    flex: 2;
+}
+.item3{
+    background: yellow;
+    flex: 1;
+}
+.item4{
+    background: green;
+}
+.item5{
+    background: blue;
+}
