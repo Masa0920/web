@@ -1,6 +1,5 @@
 .container{
     display: flex;
-    height: 600em;
 }
 .item1{
     background: red;
@@ -17,7 +16,13 @@
 }
 .item4{
     background: green;
+    height: 300px;
+    flex: 1;
 }
 .item5{
     background: blue;
+    flex: 1;
+}
+.container2{
+    display: flex;
 }
